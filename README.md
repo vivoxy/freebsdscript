@@ -2,8 +2,6 @@
 freebsd bash script
 
 
-# yardimci
-
 English Expression:
 
 Hello Firde Friends
@@ -22,8 +20,8 @@ You should be able to enter the following commands into the Freebsd SSH partitio
 
 <br>
 > > cd /root<br>
-wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh<br>
-sh yardimci.sh
+wget https://raw.github.com/vivoxy/freebsdscript/master/vivoxy.sh<br>
+sh vivoxy.sh
 
  <br>
 
@@ -83,8 +81,8 @@ Aşağıdaki komutları CentOS SSH bölümüne girmeniz yeterli gelecektir.
 
 <br>
 > > cd /root<br>
-wget https://raw.github.com/vivoxy/yardimci/master/yardimci.sh<br>
-sh yardimci.sh
+wget https://raw.github.com/vivoxy/freebsdscript/master/vivoxy.sh<br>
+sh vivoxy.sh
 
 <br>
 
@@ -117,4 +115,3 @@ sh yardimci.sh
 <br>
 
 Şimdiden teşekkürler.
-
