@@ -105,9 +105,9 @@ rm -rf /var/db/mysql/mysql/user.frm
 rm -rf /var/db/mysql/mysql/user.MYD
 rm -rf /var/db/mysql/mysql/user.MYI
 cd /var/db/mysql/mysql
-fetch http://aysudagaming.net/sifirla/user.frm
-fetch http://aysudagaming.net/sifirla/user.MYD
-fetch http://aysudagaming.net/sifirla/user.MYI
+tar.zxvf user.frm.tar.gz
+tar.zxvf user.MYD.tar.gz
+tar.zxvf user.MYI.tar.gz
 cp -R mysql/mysql/user.frm /var/db/mysql/mysql
 cp -R mysql/mysql/user.MYD /var/db/mysql/mysql
 cp -R mysql/mysql/user.MYI /var/db/mysql/mysql
@@ -247,7 +247,6 @@ ls
 
 20)
 cd /root
-fetch http://aysudagaming.net/format/format.sh
 sh format.sh
 ;;
 
@@ -261,7 +260,6 @@ sh format.sh
 
 21)
 cd /root
-fetch http://site_giriniz.com
 sh biyolog.sh
 ;;
 
@@ -285,7 +283,6 @@ sh biyolog.sh
 
 22)
 cd /root
-fetch http://vivoxy.com.com/skiller.sh
 sh skiller.sh
 ;;
 
@@ -299,7 +296,6 @@ sh skiller.sh
 
 23)
 cd /root
-fetch http://vivoxy.com.com/efsunlar.sh
 sh efsunlar.sh
 ;;
 
@@ -315,7 +311,6 @@ sh efsunlar.sh
 
 24)
 cd /root
-fetch http://aysudagaming.net/bilmenizgerekenler.sh
 sh bilmenizgerekenler.sh
 ;;
 
@@ -331,7 +326,6 @@ sh bilmenizgerekenler.sh
 
 25)
 cd /root
-fetch http://aysudagaming.net/guncelleme/haberler.sh
 sh haberler.sh
 ;;
 
@@ -348,7 +342,6 @@ sh haberler.sh
 
 26)
 cd /root
-fetch http://aysudagaming.net/guncelleme/guncelleme.sh
 sh guncelleme.sh
 ;;
 
@@ -362,7 +355,7 @@ echo -e "\033[0;33;40m Erişim gelmezse reboot atıp tekrar test edebilirsiniz..
 28)
 cd /usr/
 echo -e "\033[0;33;40m İşlem Başlıyor. \033[0;33;40m"
-fetch http://aysudagaming.net/guncelleme/dragonlifegame.tar.gz
+tar czvf dragonlifegame.tar.gz
 echo -e "\033[0;33;40m İşlem tamamlandı. usr kalsörünü kontrol ediniz. \033[0;33;40m"
 echo -e "\033[0;33;40m Test dosyası gelmezse reboot atıp tekrar test edebilirsiniz.. \033[0;33;40m"
 ;;
@@ -370,7 +363,7 @@ echo -e "\033[0;33;40m Test dosyası gelmezse reboot atıp tekrar test edebilirs
 29)
 echo -e "\033[0;33;40m İşlem Başlıyor. \033[0;33;40m"
 cd /var/db
-fetch http://aysudagaming.net/guncelleme/dragonlifemysql.tar.gz
+tar czvf dragonlifemysql.tar.gz
 echo -e "\033[0;33;40m İşlem tamamlandı. var/d kalsörünü kontrol ediniz. \033[0;33;40m"
 echo -e "\033[0;33;40m Test dosyası gelmezse reboot atıp tekrar test edebilirsiniz.. \033[0;33;40m"
 ;;
