@@ -30,30 +30,30 @@ sh vivoxy.sh
 
 <li>What's Inside;</li>
 
-1 - Sunucuyu Yeniden Başlat 
-2 - Mysql Sifresini Sıfırla 
-3 - Server Yedeklerini Al
-4 - Son Alınan Server Yedegini Yükle
-5 - Filezilla / MYSQL Loglarını Sil
-6 - Sunucuya Kim Bağlı ?
-7 - Sistem CPU Kullanımını Göster.
-8 - Sunucunuza Yapılan En Son Bağlantıyı Göster.
-9 - Dizinde Bulunan Tum Dosyalari Göster.
-10 - Bulundugum Dizini Göster
-11 - Çalıştırdığım Işlemleri Göster
-12 - Sunucumda Kaç Kişi Var ?
-13 - Işletim Sistemini Öğren
-14 - Putty Şifremi Değiştir
-15 - Hard Disk Istatistiklerini Göster
-16 - Nasıl Dosya Silebilirim ?
-17 - Dizinde Bulunan Bütün Dosyaları Göster
-18 - Sunucu Format - Files Kurulum İşlemleri
-19 - Serveriniz Hakkında Bilmeniz Gerekenler
-20 - Vivoxy - Son Duyurular
-21 - Serverime Son Gelen Güncellemeleri Yükle
-22 - Site (Blocked) Hatasını Çöz! - Çözülmezse Yeniden Başlatınız.
-23 - Güncel Gameyi Yükle Vivoxy Game Güncelleme
-24 - Güncel Mysql Yükle vivoxy Mysql Güncelleme
+1 - Sunucuyu Yeniden Başlat  <br>
+2 - Mysql Sifresini Sıfırla  <br>
+3 - Server Yedeklerini Al <br>
+4 - Son Alınan Server Yedegini Yükle <br>
+5 - Filezilla / MYSQL Loglarını Sil <br>
+6 - Sunucuya Kim Bağlı ? <br>
+7 - Sistem CPU Kullanımını Göster. <br>
+8 - Sunucunuza Yapılan En Son Bağlantıyı Göster. <br>
+9 - Dizinde Bulunan Tum Dosyalari Göster. <br>
+10 - Bulundugum Dizini Göster <br>
+11 - Çalıştırdığım Işlemleri Göster <br>
+12 - Sunucumda Kaç Kişi Var ? <br>
+13 - Işletim Sistemini Öğren <br>
+14 - Putty Şifremi Değiştir <br>
+15 - Hard Disk Istatistiklerini Göster <br>
+16 - Nasıl Dosya Silebilirim ? <br>
+17 - Dizinde Bulunan Bütün Dosyaları Göster <br>
+18 - Sunucu Format - Files Kurulum İşlemleri <br>
+19 - Serveriniz Hakkında Bilmeniz Gerekenler <br>
+20 - Vivoxy - Son Duyurular <br>
+21 - Serverime Son Gelen Güncellemeleri Yükle <br>
+22 - Site (Blocked) Hatasını Çöz! - Çözülmezse Yeniden Başlatınız. <br>
+23 - Güncel Gameyi Yükle Vivoxy Game Güncelleme <br>
+24 - Güncel Mysql Yükle vivoxy Mysql Güncelleme <br>
 
 <br>
 
@@ -89,30 +89,30 @@ sh vivoxy.sh
 
 <li>İçerisinde Neler Var ? </li>
 
-1 - Reboot At (Sunucuyu Yeniden Başlatır.)
-2 - Navicat Sifresini Sıfırla ( Navicat sifresini Unuttugunuzda Sıfırlar )
-3 - Server Yedeklerini Al
-4 - Son Alınan Server Yedegini Yükle
-5 - Filezilla / MYSQL Loglarını Sil
-6 - Sunucuya Benden Baska Kim Bağlı Göster.
-7 - Sistem CPU Kullanımını Göster.
-8 - Sunucunuza Yapılan En Son Bağlantıyı Göster.
-9 - Dizinde Bulunan Tum Dosyalari Göster.
-10 - Bulundugum Dizini Göster
-11 - Çalıştırdığım Işlemleri Göster
-12 - Sunucumda Kaç Kişi Var ?
-13 - Işletim Sistemini Öğren
-14 - Putty Şifremi Değiştir
-15 - Hard Disk Istatistiklerini Göster
-16 - Nasıl Dosya Silebilirim ?
-17 - Dizinde Bulunan Bütün Dosyaları Göster
-18 - Sunucu Format - Files Kurulum İşlemleri
-19 - Serveriniz Hakkında Bilmeniz Gerekenler
-20 - Vivoxy - Son Duyurular
-21 - Serverime Son Gelen Güncellemeleri Yükle
-22 - Site (Blocked) Hatasını Çöz! - Çözülmezse Reboot Atınız!
-23 - Güncel Gameyi Yükle Vivoxy Game Güncelleme
-24 - Güncel Mysqlu Yükle vivoxy Mysql Güncelleme
+1 - Reboot At (Sunucuyu Yeniden Başlatır.) <br>
+2 - Navicat Sifresini Sıfırla ( Navicat sifresini Unuttugunuzda Sıfırlar ) <br>
+3 - Server Yedeklerini Al <br>
+4 - Son Alınan Server Yedegini Yükle <br>
+5 - Filezilla / MYSQL Loglarını Sil <br>
+6 - Sunucuya Benden Baska Kim Bağlı Göster. <br>
+7 - Sistem CPU Kullanımını Göster. <br>
+8 - Sunucunuza Yapılan En Son Bağlantıyı Göster. <br>
+9 - Dizinde Bulunan Tum Dosyalari Göster. <br>
+10 - Bulundugum Dizini Göster <br>
+11 - Çalıştırdığım Işlemleri Göster <br>
+12 - Sunucumda Kaç Kişi Var ? <br>
+13 - Işletim Sistemini Öğren <br>
+14 - Putty Şifremi Değiştir <br>
+15 - Hard Disk Istatistiklerini Göster <br>
+16 - Nasıl Dosya Silebilirim ? <br>
+17 - Dizinde Bulunan Bütün Dosyaları Göster <br>
+18 - Sunucu Format - Files Kurulum İşlemleri <br>
+19 - Serveriniz Hakkında Bilmeniz Gerekenler <br>
+20 - Vivoxy - Son Duyurular <br>
+21 - Serverime Son Gelen Güncellemeleri Yükle <br>
+22 - Site (Blocked) Hatasını Çöz! - Çözülmezse Reboot Atınız! <br>
+23 - Güncel Gameyi Yükle Vivoxy Game Güncelleme <br>
+24 - Güncel Mysqlu Yükle vivoxy Mysql Güncelleme <br>
 <br>
 
 Şimdiden teşekkürler.
