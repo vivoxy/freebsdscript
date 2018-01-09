@@ -1,0 +1,2 @@
+# freebsdscript
+freebsd bash script
