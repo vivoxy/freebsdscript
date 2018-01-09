@@ -1,7 +1,6 @@
 # freebsdscript
 freebsd bash script
 
-
 English Expression:
 
 Hello Firde Friends
@@ -77,7 +76,7 @@ Bir çok hosting firmasının işine yarayacak yardımcı komutları bir script 
 
 <br>
 
-Aşağıdaki komutları CentOS SSH bölümüne girmeniz yeterli gelecektir.
+Aşağıdaki komutları Freebsd SSH bölümüne girmeniz yeterli gelecektir.
 
 <br>
 > > cd /root<br>
