@@ -20,7 +20,7 @@ Freebsd allows administrators to easily manage their servers. Our script will be
 You should be able to enter the following commands into the Freebsd SSH partition.
 
 <br>
-> > cd /root<br>
+cd /root<br>
 wget https://raw.github.com/vivoxy/freebsdscript/master/vivoxy.sh<br>
 sh vivoxy.sh
 
@@ -81,7 +81,7 @@ Bir çok hosting firmasının işine yarayacak yardımcı komutları bir script 
 Aşağıdaki komutları Freebsd SSH bölümüne girmeniz yeterli gelecektir.
 
 <br>
-> > cd /root<br>
+cd /root<br>
 wget https://raw.github.com/vivoxy/freebsdscript/master/vivoxy.sh<br>
 sh vivoxy.sh
 
