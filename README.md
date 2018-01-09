@@ -68,7 +68,7 @@ Türkçe Anlatım :
 
 Merhabalar 
 
-Bir çok hosting firmasının işine yarayacak yardımcı komutları bir script haline getirdim. Scriptimiz sürekli güncellenecek olup , internet üzerinden sürekli kod arama gibi sorunlarla sizleri uğraştırmayacak. 
+Freebsd, yöneticilerin sunucularını kolayca yönetmelerini sağlar. Senaryomuz herkese fayda sağlayacak.
 
 <li>Script sadece Freebsd'de sorunsuz bir şekilde çalışmaktadır.</li>
 
